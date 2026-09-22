@@ -21,12 +21,19 @@ omarchy theme update
 
 ## Wallpapers (SFW, 3440×1440)
 
-Abstract trail + flow-state vibes:
+Backgrounds are additive — new sets are added, never removed.
 
-1. Flow peak
-2. Stack ridges
-3. Deep work ascent
-4. Monitor glow trail
+**Lanín / trail**
+1. Lanín geometry
+2. Trail lights
+3. Crystal peak
+4. Ridge camp
+
+**Deep work / coding**
+5. Flow peak
+6. Stack ridges
+7. Deep work ascent
+8. Monitor glow trail
 
 ## Full extras (rainbow borders + tuned Neovim)
 
