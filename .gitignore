@@ -1,0 +1,4 @@
+# Ignore editor junk only — wallpapers must be committed
+.DS_Store
+*.bak
+*~

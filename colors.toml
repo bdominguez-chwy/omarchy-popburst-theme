@@ -1,0 +1,35 @@
+mode = "dark"
+
+# Hot magenta — the poppy focus signal on borders and accents
+accent = "#ff4d9a"
+selection = "#2b2248"
+muted = "#6e6788"
+
+# Deep ink — calm enough for long productive sessions
+background = "#12131c"
+dark_background = "#0c0d14"
+darker_background = "#07080c"
+lighter_background = "#1e2030"
+
+# Crisp, high-contrast text
+foreground = "#f2f0fa"
+dark_foreground = "#7a748f"
+light_foreground = "#d5d0e8"
+bright_foreground = "#ffffff"
+
+# Candy syntax — fun and easy to scan
+red = "#ff5c6a"
+yellow = "#ffe566"
+orange = "#ff9f43"
+green = "#7dff9a"
+cyan = "#3de8ff"
+blue = "#5b8cff"
+magenta = "#ff4d9a"
+brown = "#c4785a"
+
+bright_red = "#ff8a94"
+bright_yellow = "#fff099"
+bright_green = "#a8ffc0"
+bright_cyan = "#7af0ff"
+bright_blue = "#8aadff"
+bright_magenta = "#ff7ab8"
